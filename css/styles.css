@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  width: 100%;
+}
+
+header .banner-container {
+  height: 60px;
+  overflow: hidden;
+
+}
+
+header img {
+  width: 100%;
+}
+
+header .title-container {
+  position: absolute;
+  top: 27px;
+  max-width: 400px;
+  padding: 8px 30px;
+  background-color: rgb(149, 177, 75);
+  color: rgb(255, 255, 255);
+  border-radius: 0 40px 40px 0;
+}
+
+header .title-container h1 {
+  margin: 0;
+}
