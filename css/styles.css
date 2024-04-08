@@ -35,5 +35,23 @@ header .title-container h1 {
   text-transform: uppercase;
   font-size: 30px;
   font-weight: 800;
+}
 
+.section-container {
+  width: 90%;
+  margin: 40px auto;
+}
+
+section {
+  background-color: green;
+  width: 48%;
+  display: inline-block;
+}
+
+section.information {}
+
+section.menu {}
+
+.information img {
+  width: 100%;
 }
